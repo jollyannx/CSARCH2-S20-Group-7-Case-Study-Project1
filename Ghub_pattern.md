@@ -1,13 +1,13 @@
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S20  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Chua, Yosh Gabriel
+- Del Carmen, Amanda Julianna
+- Dela Cruz, Ethan Iago
+- Mendoza, Kaissehr Tyrrelle
+- Perdon, Linus Carl
 
 ---
 
@@ -90,4 +90,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
