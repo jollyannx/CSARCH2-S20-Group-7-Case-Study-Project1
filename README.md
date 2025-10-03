@@ -57,7 +57,6 @@ Google spreadsheet link: [Group#7 PC_Build_Template_With_Budget](https://docs.go
 ---
 
 ## 4. Compatibility Justification
-Example:  
 - **CPU + Motherboard**: The AMD Ryzen 5 5500 is an AM4 socket processor and is paired with the Gigabyte B550M AORUS Motherboard. This pairing is compatible, as the B550M chipset fully supports Ryzen 5000 series CPUs.
 - **RAM + (CPU + Motherboard)**: The G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory is compatible with both the Ryzen 5 5500 CPU and the B550M motherboard, as this chipset utilizes DDR4 RAM. Running at 3600 MHz provides balanced memory speed for the system.  
 - **GPU + Motherboard**: The Inno3D RTX 3050 is compatible with the case and motherboard via the PCIe slot. Its power requirement is supported by the Cooler Master MWE Bronze 650 W Power Supply, which is reliable and ready for upgrades.
