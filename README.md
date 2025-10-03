@@ -84,7 +84,7 @@ Reflections on:
 
 ---
 ## 7. Video pitch
-- Your video link here  
+-[Group 7 S20 CSARCH2 Custom PC Build Project - Video Pitch Presentation](https://youtu.be/ckRH_RVnu0c)
 
 ## 8. References
 - [Vendor links (PCX)  ](https://pcx.com.ph/?srsltid=AfmBOoreoEarq99jC6hnaIJnmdv8JPPpzhzsDJOlAUm2XjJfYZjIxzOe)
