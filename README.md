@@ -40,7 +40,7 @@ PCPartPicker Permalink: _________
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: [Group#7 PC_Build_Template_With_Budget]([link](https://docs.google.com/spreadsheets/d/1EdGx8VKXUGBVXoshIl5WgDq589VR7ubDttX9SxwY4m8/edit?usp=sharing))
+Google spreadsheet link: [Group#7 PC_Build_Template_With_Budget](https://docs.google.com/spreadsheets/d/1EdGx8VKXUGBVXoshIl5WgDq589VR7ubDttX9SxwY4m8/edit?usp=sharing)
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
