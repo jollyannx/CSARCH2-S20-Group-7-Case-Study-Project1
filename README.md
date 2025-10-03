@@ -23,8 +23,7 @@ PCPartPicker Permalink: [Part List](https://pcpartpicker.com/list/Qd8GQd)
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | AMD Ryzen 5 5500 3.6 GHz 6-Core Processor   | $75.00  | 	
-6 cores for processing, built for gaming and multitasking    |
+| CPU             | AMD Ryzen 5 5500 3.6 GHz 6-Core Processor   | $75.00  | 	6 cores for processing, built for gaming and multitasking    |
 | CPU Cooler      | Cooler Master Hyper 212 Spectrum V3 71.93 CFM CPU Cooler   | $14.99 | Good for longevity and overclock flexibility    |
 | Motherboard     | Gigabyte B550M AORUS ELITE AX Micro ATX AM4 Motherboard   | $109.99  | 	Dependable, feature-packed, and WiFi-ready    |
 | RAM             | G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory   | $52.99             | Balanced memory for entry-level to mid-tier play    |
