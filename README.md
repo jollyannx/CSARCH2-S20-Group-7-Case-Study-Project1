@@ -31,8 +31,7 @@ PCPartPicker Permalink: [Part List](https://pcpartpicker.com/list/Qd8GQd)
 | Storage 1       | Kingston NV3 500 GB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $40.99             | ...   |
 | Graphics Card   | Inno3D Twin X2 OC GeForce RTX 3050 8GB 8 GB Video Card   | N/A             | ...   |
 | Power Supply    | Cooler Master MWE Bronze 650 V3 230V 650 W 80+ Bronze Certified ATX Power Supply   | N/A             | ...   |
-| Case            | 
-Antec CX200M RGB ELITE MicroATX Mini Tower Case   | N/A             | ...   |
+| Case            | Antec CX200M RGB ELITE MicroATX Mini Tower Case   | N/A             | ...   |
 | **Total**       |       | **$293.96 USD**     |       |
 
 ---
