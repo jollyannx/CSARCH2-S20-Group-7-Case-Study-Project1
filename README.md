@@ -81,7 +81,7 @@ Example:
 The completed build is future-proof, affordable, and balanced. It successfully plays today's games at 900p/1080p without exceeding the budget and is built on trusted AMD + NVIDIA hardware with local vendor support. It is perfect for students, casual gamers, and first-time PC builders.
 Reflections on:  
 - *Price differences (international vs. Manila vendors)*: The final pricing was finalized using local Manila vendors (PC Express & Dynasquest), showing that a high-value build is possible using readily available local stock, which also comes with trusted warranty and returns. The total price of PHP 39,430 was significantly higher than the estimated PCPartPicker USD total of $293.96, but we have to note that some prices are not included, and it excluded local taxes, and shipping fees from the US.
-- *Challenges in finding stock or cheaper equivalents*: 
+- *Challenges in finding stock or cheaper equivalents*: Before the final PC build, there were definitely hard decisions to make on which CPU to use and what components to go along with it. One of the problems our group encountered in a previous build was the lack of stock and Manila based shops for the most compatible PSU which lead to us compromising and making another build.
 - *Learnings about PC components and system design*: The group learned to achieve the best value by utilizing smart trade-offs. This included investing in components that provide upgrade paths and modern performance features, while excluding non-essential components like a traditional HDD.
 
 ---
