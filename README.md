@@ -24,22 +24,21 @@ PCPartPicker Permalink: [Part List](https://pcpartpicker.com/list/Qd8GQd)
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| CPU             | AMD Ryzen 5 5500 3.6 GHz 6-Core Processor   | $75.00  | ...   |
+| CPU Cooler      | Cooler Master Hyper 212 Spectrum V3 71.93 CFM CPU Cooler   | $14.99 | ...   |
+| Motherboard     | Gigabyte B550M AORUS ELITE AX Micro ATX AM4 Motherboard   | $109.99  | ...   |
+| RAM             | G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory   | $52.99             | ...   |
+| Storage 1       | Kingston NV3 500 GB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $40.99             | ...   |
+| Graphics Card   | Inno3D Twin X2 OC GeForce RTX 3050 8GB 8 GB Video Card   | N/A             | ...   |
+| Power Supply    | Cooler Master MWE Bronze 650 V3 230V 650 W 80+ Bronze Certified ATX Power Supply   | N/A             | ...   |
+| Case            | 
+Antec CX200M RGB ELITE MicroATX Mini Tower Case   | N/A             | ...   |
+| **Total**       |       | **$293.96 USD**     |       |
 
 ---
 
 ## 3. Local Manila Build
-This build uses **locally available parts** from Manila vendors.
+This build uses **locally available parts** from Manila vendors, specifically PC Express and Dynasquest.
 Google spreadsheet link: [Group#7 PC_Build_Template_With_Budget](https://docs.google.com/spreadsheets/d/1EdGx8VKXUGBVXoshIl5WgDq589VR7ubDttX9SxwY4m8/edit?usp=sharing)
 
 ### Local Build Table
@@ -69,10 +68,12 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- **Budget Limit**: ₱40,000  
+- **Final Total**: ₱39,430  
+- ✅ Within budget   
+- Opted for No HDD → faster SSD. This prioritizes quick operating system boots and game load times using a 500GB NVMe Solid State Drive  for a superior user experience.
+- Included an Aftermarket cooler. This improves thermal management for better system longevity and allows for overclock flexibility.
+- Selected the RTX 3050. This provides modern GPU features like affordable ray tracing and DLSS at an entry-level cost.
 
 ---
 
@@ -87,9 +88,9 @@ Reflections on:
 - Your video link here  
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- [Vendor links (PCX)  ](https://pcx.com.ph/?srsltid=AfmBOoreoEarq99jC6hnaIJnmdv8JPPpzhzsDJOlAUm2XjJfYZjIxzOe)
+- [Vendor links (VillMan)  ](https://villman.com/) 
+- [Part List](https://pcpartpicker.com/list/Qd8GQd)
 
 
 
