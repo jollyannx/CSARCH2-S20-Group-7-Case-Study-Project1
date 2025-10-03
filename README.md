@@ -59,11 +59,11 @@ Google spreadsheet link: [Group#7 PC_Build_Template_With_Budget](https://docs.go
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: The AMD Ryzen 5 5500 is an AM4 socket processor and is paired with the Gigabyte B550M AORUS ELITE AX Micro ATX AM4 Motherboard. This pairing is compatible, as the B550M chipset fully supports Ryzen 5000 series CPUs.
+- **CPU + Motherboard**: The AMD Ryzen 5 5500 is an AM4 socket processor and is paired with the Gigabyte B550M AORUS Motherboard. This pairing is compatible, as the B550M chipset fully supports Ryzen 5000 series CPUs.
 - **RAM + (CPU + Motherboard)**: The G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory is compatible with both the Ryzen 5 5500 CPU and the B550M motherboard, as this chipset utilizes DDR4 RAM. Running at 3600 MHz provides balanced memory speed for the system.  
-- **GPU + Motherboard**: The Inno3D RTX 3050 is compatible with the case and motherboard via the PCIe slot. Its power requirement is supported by the Cooler Master MWE Bronze 650 W Power Supply , which is reliable and ready for upgrades.
+- **GPU + Motherboard**: The Inno3D RTX 3050 is compatible with the case and motherboard via the PCIe slot. Its power requirement is supported by the Cooler Master MWE Bronze 650 W Power Supply, which is reliable and ready for upgrades.
 - **PSU + (CPU + Motherboard + GPU)**: The 650 W rating provides ample power. The Ryzen 5 5500 has a 65W TDP, and the RTX 3050 has a maximum power draw (TGP) of around 130W. The total power draw of the system is well below the PSU's capacity, ensuring stability and providing generous overhead for future upgrades. 
-- **Cooler + Case**: The Cooler Master Hyper 212 Spectrum V3 is an aftermarket cooler included for better longevity and overclocking flexibility , and its size is assumed to fit within the Antec CX200M RGB ELITE MicroATX Mini Tower Case.
+- **Cooler + Case**: The Cooler Master Hyper 212 Spectrum V3 is an aftermarket cooler included for better longevity and overclocking flexibility, and its size is assumed to fit within the Antec CX200M RGB ELITE MicroATX Mini Tower Case.
 
 ---
 
